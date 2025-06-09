@@ -437,3 +437,14 @@ align-items: center;
         font-size: 13px;
     }
 }
+@media screen and (max-width: 400px){
+    .fer{
+        width: 100%;
+        min-width: 360px;
+        min-height: 50px;
+    }
+    .far{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+}
