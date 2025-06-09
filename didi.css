@@ -447,4 +447,10 @@ align-items: center;
         margin-left: 10px;
         margin-right: 10px;
     }
+    header ul li{
+        font-size: 13px;
+    }
+    header p{
+        margin-left: 15px;
+    }
 }
