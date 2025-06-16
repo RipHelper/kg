@@ -440,12 +440,11 @@ align-items: center;
 @media screen and (max-width: 400px){
     .fer{
         width: 100%;
-        min-width: 360px;
+        max-width: initial;
         min-height: 50px;
     }
-    .far{
-        margin-left: 10px;
-        margin-right: 10px;
+    .wap{
+        padding: 15px;
     }
     header ul li{
         font-size: 13px;
